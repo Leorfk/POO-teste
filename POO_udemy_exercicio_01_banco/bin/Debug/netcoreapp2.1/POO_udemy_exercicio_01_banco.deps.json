@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "POO_udemy_exercicio_01_banco/1.0.0": {
+        "runtime": {
+          "POO_udemy_exercicio_01_banco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO_udemy_exercicio_01_banco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

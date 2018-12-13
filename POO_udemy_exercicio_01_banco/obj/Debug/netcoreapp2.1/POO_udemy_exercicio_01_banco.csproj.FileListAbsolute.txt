@@ -1,0 +1,11 @@
+C:\Users\Leonardo Rodrigues\Documents\POO_udemy_exercicio_01_banco\POO_udemy_exercicio_01_banco\bin\Debug\netcoreapp2.1\POO_udemy_exercicio_01_banco.deps.json
+C:\Users\Leonardo Rodrigues\Documents\POO_udemy_exercicio_01_banco\POO_udemy_exercicio_01_banco\bin\Debug\netcoreapp2.1\POO_udemy_exercicio_01_banco.runtimeconfig.json
+C:\Users\Leonardo Rodrigues\Documents\POO_udemy_exercicio_01_banco\POO_udemy_exercicio_01_banco\bin\Debug\netcoreapp2.1\POO_udemy_exercicio_01_banco.runtimeconfig.dev.json
+C:\Users\Leonardo Rodrigues\Documents\POO_udemy_exercicio_01_banco\POO_udemy_exercicio_01_banco\bin\Debug\netcoreapp2.1\POO_udemy_exercicio_01_banco.dll
+C:\Users\Leonardo Rodrigues\Documents\POO_udemy_exercicio_01_banco\POO_udemy_exercicio_01_banco\bin\Debug\netcoreapp2.1\POO_udemy_exercicio_01_banco.pdb
+C:\Users\Leonardo Rodrigues\Documents\POO_udemy_exercicio_01_banco\POO_udemy_exercicio_01_banco\obj\Debug\netcoreapp2.1\POO_udemy_exercicio_01_banco.csprojAssemblyReference.cache
+C:\Users\Leonardo Rodrigues\Documents\POO_udemy_exercicio_01_banco\POO_udemy_exercicio_01_banco\obj\Debug\netcoreapp2.1\POO_udemy_exercicio_01_banco.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Rodrigues\Documents\POO_udemy_exercicio_01_banco\POO_udemy_exercicio_01_banco\obj\Debug\netcoreapp2.1\POO_udemy_exercicio_01_banco.AssemblyInfoInputs.cache
+C:\Users\Leonardo Rodrigues\Documents\POO_udemy_exercicio_01_banco\POO_udemy_exercicio_01_banco\obj\Debug\netcoreapp2.1\POO_udemy_exercicio_01_banco.AssemblyInfo.cs
+C:\Users\Leonardo Rodrigues\Documents\POO_udemy_exercicio_01_banco\POO_udemy_exercicio_01_banco\obj\Debug\netcoreapp2.1\POO_udemy_exercicio_01_banco.dll
+C:\Users\Leonardo Rodrigues\Documents\POO_udemy_exercicio_01_banco\POO_udemy_exercicio_01_banco\obj\Debug\netcoreapp2.1\POO_udemy_exercicio_01_banco.pdb
