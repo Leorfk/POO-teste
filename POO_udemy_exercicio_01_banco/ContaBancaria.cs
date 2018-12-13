@@ -28,7 +28,7 @@ namespace POO_udemy_exercicio_01_banco
 
         public void Sacar(double saque)
         {
-            Saldo = Saldo - (saque + 5.00);
+            Saldo = Saldo - (saque + 2.00);
         }
 
         public override string ToString()
