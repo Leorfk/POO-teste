@@ -30,6 +30,10 @@ namespace POO_udemy_exercicio_01_banco
         {
             Saldo = Saldo - (saque + 2.00);
         }
+        public void Emprestimo(double valor)
+        {
+            Saldo -= valor * 1.3;
+        }
 
         public override string ToString()
         {

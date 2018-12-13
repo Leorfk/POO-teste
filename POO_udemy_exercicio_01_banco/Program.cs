@@ -39,6 +39,16 @@ namespace POO_udemy_exercicio_01_banco
             double saque = double.Parse(Console.ReadLine());
             contaShow.Sacar(saque);
             Console.WriteLine("Datos sobre a conta: " + contaShow);
+            Console.WriteLine("Deseja fazer um empréstimo ?");
+            char r = char.Parse(Console.ReadLine());
+            double valor = 0;
+            if (r == 'S' || r == 's')
+            {
+                Console.WriteLine("Qual é o valor do empréstimo ? R$");
+                valor = double.Parse(Console.ReadLine());
+            }
+            contaShow.Emprestimo(valor);
+            Console.WriteLine(contaShow);
             Console.ReadLine();
         }
     }
