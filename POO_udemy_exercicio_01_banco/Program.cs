@@ -38,8 +38,7 @@ namespace POO_udemy_exercicio_01_banco
             Console.Write("Digite um valor para saque: R$");
             double saque = double.Parse(Console.ReadLine());
             conta.Sacar(saque);
-            Console.WriteLine(conta);
-            Console.WriteLine();
+            Console.WriteLine("Datos sobre a conta: " + conta);
             Console.ReadLine();
         }
     }
