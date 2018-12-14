@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leonardo Rodrigues\\Documents\\POO_udemy_exercicio_01_banco\\POO_udemy_exercicio_01_banco\\POO_udemy_exercicio_01_banco.csproj",
+      "projectUniqueName": "C:\\Users\\Leonardo Rodrigues\\Desktop\\POO-teste\\POO_udemy_exercicio_01_banco\\POO_udemy_exercicio_01_banco.csproj",
       "projectName": "POO_udemy_exercicio_01_banco",
-      "projectPath": "C:\\Users\\Leonardo Rodrigues\\Documents\\POO_udemy_exercicio_01_banco\\POO_udemy_exercicio_01_banco\\POO_udemy_exercicio_01_banco.csproj",
+      "projectPath": "C:\\Users\\Leonardo Rodrigues\\Desktop\\POO-teste\\POO_udemy_exercicio_01_banco\\POO_udemy_exercicio_01_banco.csproj",
       "packagesPath": "C:\\Users\\Leonardo Rodrigues\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leonardo Rodrigues\\Documents\\POO_udemy_exercicio_01_banco\\POO_udemy_exercicio_01_banco\\obj\\",
+      "outputPath": "C:\\Users\\Leonardo Rodrigues\\Desktop\\POO-teste\\POO_udemy_exercicio_01_banco\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
